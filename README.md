@@ -10,7 +10,7 @@ A deep learning-based project to automatically detect whether a person is wearin
 - Easy-to-use and extensible codebase
 
 ## 📸 Demo
-<img src="images/images0.png" width="900"/>
+<img src="Images/images0.png" width="900"/>
 <img src="images/images2.png" width="900"/>
 <img src="images/images5.png" width="900"/>
 <img src="images/images3.png" width="900"/>
